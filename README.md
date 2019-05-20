@@ -1,3 +1,2 @@
 # g-beautiful.github.io
-
-index page
+<a href="https://g-beautiful.github.io/content/">content</a>
